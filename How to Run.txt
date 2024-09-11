@@ -1,0 +1,3 @@
+Node Modules not Included
+1. Run the following command in the Terminal : npm install (to install node modules )
+2. Run this Command to Start React App in Browser : npm run start
